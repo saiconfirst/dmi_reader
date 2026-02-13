@@ -27,7 +27,7 @@ Securely retrieve unique hardware identifiers (DMI, UUID, serial numbers) across
 ## 📦 Installation
 
 ```bash
-pip install dmi-reader
+pip install -r requirements.txt
 ```
 
 ### Dependencies
@@ -51,7 +51,7 @@ print(info)
 # Or without fallback
 info = get_dmi_info(include_fallback=False)
 ```
-
+# Or python test.py
 ---
 
 ## 🛠️ Supported Platforms
