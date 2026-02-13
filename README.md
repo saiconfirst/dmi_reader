@@ -85,7 +85,7 @@ To request a commercial license, contact:
 
 ```bash
 # Clone the repository
-git clone https://github.com/saiconfirst/dmi-reader.git
+git clone https://github.com/saiconfirst/dmi_reader.git
 cd dmi-reader
 
 # Install dependencies
